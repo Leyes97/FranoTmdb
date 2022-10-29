@@ -10,7 +10,7 @@ const Login = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Image
-        src="https://imgur.com/FjOCtNr.png"
+        src="https://imgur.com/eRkkMdH.png"
         layout="fill"
         className="-z-10 !hidden opacity-60 sm:!inline"
         objectFit="cover"
